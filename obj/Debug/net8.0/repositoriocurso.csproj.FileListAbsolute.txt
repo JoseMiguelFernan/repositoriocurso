@@ -1,0 +1,15 @@
+/workspaces/repositoriocurso/bin/Debug/net8.0/repositoriocurso
+/workspaces/repositoriocurso/bin/Debug/net8.0/repositoriocurso.deps.json
+/workspaces/repositoriocurso/bin/Debug/net8.0/repositoriocurso.runtimeconfig.json
+/workspaces/repositoriocurso/bin/Debug/net8.0/repositoriocurso.dll
+/workspaces/repositoriocurso/bin/Debug/net8.0/repositoriocurso.pdb
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.AssemblyInfoInputs.cache
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.AssemblyInfo.cs
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.csproj.CoreCompileInputs.cache
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.sourcelink.json
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.dll
+/workspaces/repositoriocurso/obj/Debug/net8.0/refint/repositoriocurso.dll
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.pdb
+/workspaces/repositoriocurso/obj/Debug/net8.0/repositoriocurso.genruntimeconfig.cache
+/workspaces/repositoriocurso/obj/Debug/net8.0/ref/repositoriocurso.dll
